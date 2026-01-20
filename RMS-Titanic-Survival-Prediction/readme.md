@@ -91,3 +91,5 @@ This dataset is suitable for:
 
 ---
 #### Dataset provided by Kaggle.
+
+### Model Used: Radom Forrest
